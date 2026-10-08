@@ -13,3 +13,7 @@ Rta: De esta manera no tenemos que decirle a os objetos cada vez que actuen que 
 ¿Qué ocurriría si el libro ya estaba prestado y alguien intenta prestarlo nuevamente sin controles de estado internos?
 
 Rta: El software intentaria prestar un libro que ya fue porestado con anterioridad y el usuario no sabra que el libro fue prestado y el no podra acceder a el
+
+¿Que ventajas tiene permitir que la información sea ingresada por el usuario en lugar de escribir los datos directamente en el codigo?
+
+Rta: permite que a los usuarios ingresar sus propios datos y deja que sean ellos los que ingresen los datos que desean que sean ejecutados por el software aumentando la interactividad con el usuario
